@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://bayside-tb.github.io/sitemap.xml
