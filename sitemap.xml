@@ -1,29 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
-            <loc>https%3A//bayside-tb.github.io/</loc>
+            <loc>https://bayside-tb.github.io/</loc>
             
         </url>
     
         <url>
-            <loc>https%3A//bayside-tb.github.io/event-56th/</loc>
+            <loc>https://bayside-tb.github.io/event-56th/</loc>
             
                 <lastmod>2019-09-24</lastmod>
             
         </url>
     
         <url>
-            <loc>https%3A//bayside-tb.github.io/event-57th/</loc>
+            <loc>https://bayside-tb.github.io/event-57th/</loc>
             
                 <lastmod>2019-10-29</lastmod>
             
         </url>
     
         <url>
-            <loc>https%3A//bayside-tb.github.io/event-58th/</loc>
+            <loc>https://bayside-tb.github.io/event-58th/</loc>
             
                 <lastmod>2019-11-26</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https://bayside-tb.github.io/event-60th/</loc>
+            
+                <lastmod>2020-07-29</lastmod>
             
         </url>
     
